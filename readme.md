@@ -1,0 +1,1 @@
+Esse projeto cria um passeio aleatorio com 50.000 pontos (para espelhar dados do mundo real) e plota cada ponto com um tamanho s=1. A imagem resulta em uma obra de arte a partir de um simples gráfico de dispersão!
